@@ -1,5 +1,8 @@
-# Project Responsive Web Design using Bootstrap
+# Ex-10 : Project Responsive Web Design using Bootstrap
+## Name: Blessing Jeffrey Y.L
+## Roll.no: 212223220014
 ## Date:09-05-2024
+
 
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
@@ -26,7 +29,7 @@ Create a HTML file and include the needed Bootstrap components.
 Publish the website in the LocalHost.
 
 ## PROGRAM :
-## web.html:
+### Web.html:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -101,7 +104,7 @@ Publish the website in the LocalHost.
 </body>
 </html>
 ```
-## about.html
+### About.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -181,7 +184,7 @@ Publish the website in the LocalHost.
 </body>
 </html>
 ```
-## product.html
+### Product.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -292,7 +295,7 @@ Publish the website in the LocalHost.
 </body>
 </html>
 ```
-## contact.html
+### Contact.html
 ```
 <!DOCTYPE html>
 <html lang="en">
